@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/consulta-deputado/static/js/main.b1699e90.chunk.js",
+    "main.js.map": "/consulta-deputado/static/js/main.b1699e90.chunk.js.map",
+    "runtime-main.js": "/consulta-deputado/static/js/runtime-main.6a3b01c9.js",
+    "runtime-main.js.map": "/consulta-deputado/static/js/runtime-main.6a3b01c9.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/consulta-deputado/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.dd41a10b.chunk.js": "/consulta-deputado/static/js/2.dd41a10b.chunk.js",
+    "static/js/2.dd41a10b.chunk.js.map": "/consulta-deputado/static/js/2.dd41a10b.chunk.js.map",
+    "index.html": "/consulta-deputado/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/consulta-deputado/static/css/2.4c97ca4f.chunk.css.map",
+    "static/js/2.dd41a10b.chunk.js.LICENSE.txt": "/consulta-deputado/static/js/2.dd41a10b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6a3b01c9.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.dd41a10b.chunk.js",
+    "static/js/main.b1699e90.chunk.js"
+  ]
+}
