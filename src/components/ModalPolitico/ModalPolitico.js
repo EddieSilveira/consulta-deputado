@@ -19,7 +19,6 @@ const ModalPolitico = ({ lgShow, deputado, setLgShow }) => {
       size="lg"
       show={lgShow}
       onHide={() => reiniciaPagina()}
-      aria-labelledby="example-modal-sizes-title-lg"
       className="container-fluid w-100"
     >
       <Modal.Header

@@ -41,7 +41,6 @@ const FormPesquisa = () => {
       <Form inline>
         <Form.Control
           className="mb-2 mr-sm-2"
-          id="inlineFormInputName2"
           placeholder="Pesquisar por nome"
           value={nomePesquisa}
           onChange={(event) => setNomePesquisa(event.target.value)}
@@ -64,21 +63,3 @@ const FormPesquisa = () => {
 };
 
 export default FormPesquisa;
-
-//() => setLgShow(true)
-/*<Card
-                id={dados.id}
-                nome={dados.nome}
-                email={
-                  dados.email === null
-                    ? 'Não possui email disponivel'
-                    : dados.email
-                }
-                siglaPartido={
-                  dados.siglaPartido === null
-                    ? 'Partido indisponivel'
-                    : dados.email
-                }
-                siglaUf={dados.siglaUf}
-                urlFoto={dados.urlFoto === null ? 'email vazio' : dados.email}
-              ></Card>;*/
